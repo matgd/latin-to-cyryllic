@@ -12,6 +12,7 @@ Cyrillic look-alikes (Homoglyphs).
   manually.
 - **Copy to Clipboard**: Easy one-click copy for both input and output.
 - **Extensible Map**: Easily modifiable character mapping in `script.js`.
+- **Mobile Responsive**: Works on mobile devices.
 
 ## Tech Stack
 
