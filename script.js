@@ -19,7 +19,22 @@ const MAPPING = {
     "E": "Э",
     "e": "Э",
     "R": "Я",
-    "r": "Я"
+    "r": "Я",
+    "B": "Б", 
+    "b": "б",
+    "K": "К", 
+    "k": "к",
+    "m": "м",
+    "H": "н", 
+    "h": "н",
+    "T": "т", 
+    "t": "т",
+    "Y": "У", 
+    "y": "у",
+    "U": "Ц", 
+    "u": "ц",
+    "O": "Ф", 
+    "o": "ф",
 };
 
 // Sort keys by length descending to ensure overlapping keys (like IO vs I) are matched correctly
